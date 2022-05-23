@@ -1,7 +1,8 @@
 ## Hi there! 👋 Welcome to my GitHub 👩‍💻
 
 I'm Aakanksha Baijal, a pre-final year engineering student from BITS Goa.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="250px" />
+
+<!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200px" /> -->
 
 - 💡 Interested in learning new technologies and finding creative solutions
 - 🌱 Currently learning React
