@@ -5,7 +5,7 @@ I'm Aakanksha Baijal, a pre-final year engineering student from BITS Goa.
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" width="200px" /> -->
 
 - 💡 Interested in learning new technologies and finding creative solutions
-- 🌱 Currently learning React
+- 🌱 Currently looking for Full Time Software Developer roles
 - ✍️ Pursuing graphic design and brushlettering as hobbies
 
 
@@ -27,6 +27,8 @@ I'm Aakanksha Baijal, a pre-final year engineering student from BITS Goa.
  &nbsp;
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+ ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+ ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  
 &nbsp;
